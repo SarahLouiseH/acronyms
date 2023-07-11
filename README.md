@@ -732,7 +732,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | SLED | Sentence and Licence Expiry Date |  |  |
 | SLM | Send legal mail to prisons | https://send-legal-mail.prison.service.justice.gov.uk/start | |
 | SME | Small or medium-sized enterprise | | |
-| SME | Subject matter expert | | In LAA it is an expert on a particular part of legal aid policy/delivery |
+| SME | Subject matter expert | | Someone considered an expert on a particular area, or policy/delivery etc |
 | SMOD | Subject Matter of Dispute | | If a legal dispute is about the ownership of an asset, then the value of that asset may be treated differently when calculating eligibility for legal aid for the dispute |
 | SMS (in the Hub) | Supplier Management System | | CWA (Contracted Work and Administration)'s Supplier (Legal Provider) data |
 | SMT | Senior Management Team | | |
