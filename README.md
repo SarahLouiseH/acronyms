@@ -224,7 +224,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DPA | Data Protection Act | | |
 | DPIA | Data Protection Impact assessment | | |
 | DPRRD | Detention Post Recall Release Date |  |  |
-| DPS | Digital Prison Services | | Previously known as 'New NOMIS' |
+| DPS | Digital Prison Services | | Previously known as 'New NOMIS'. It is the new, Digital replacement for the NOMIS Legacy system. DPS is designed to be accessible via a web browser, intuitive & improve the user experience as well as enable Government cross-department collaboration, such as Courts, Probation, Police, CRS etc |
 | DPR | Digital Prison Reporting | | |
 | DPS | Dynamic Purchasing System | | Not unique to MoJ - it's a way that Governors can purchase additional education or work provision on site, outside of the standard education contracts.  Some stakeholders may be more familiar with this definition of DPS rather than 'Digital Prison Services' |
 | DR | Defence Request | | Formally DSDS. |
